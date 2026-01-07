@@ -24,14 +24,14 @@
 
 ## 基本操作
 - 移動: 矢印キー / WASD
-- インタラクト : F
-- キャンセル / メニュー : Esc
-- マップ移動 : M
+- インタラクト: F
+- キャンセル / メニュー: Esc
+- マップ移動: M
 
 ---
 
 ## セーブデータ
-Godot の `user://` に保存されます。OS別の例:
+Godotの `user://` に保存されます。OS別の例:
 - Windows: `%AppData%/Godot/app_userdata/星影の約束/`
 - macOS: `~/Library/Application Support/Godot/app_userdata/星影の約束/`
 - Linux: `~/.local/share/godot/app_userdata/星影の約束/`
@@ -41,9 +41,13 @@ Godot の `user://` に保存されます。OS別の例:
 ## 既知の注意点
 - 配布ビルドは署名なしです。Windows SmartScreen や macOS Gatekeeper で警告される場合があります。
 - 解像度や入力設定は今後のビルドで調整予定です。
-- 不具合を見つけた場合は、再現手順とあわせて Issue で知らせてもらえると助かります。
+- 不具合を見つけた場合は、再現手順とあわせて Issueで知らせてもらえると助かります。
 
 ---
 
 ## フィードバック
-GitHub の Issue で報告・要望を受付中です。プレイ環境（OS/ビルド版）と再現手順を書いてもらえるとスムーズです。
+GitHubのIssueで報告・要望を受付中です。プレイ環境（OS/ビルド版）と再現手順を書いてもらえるとスムーズです。
+---
+
+## ライセンス
+本作はCC BY-NC 4.0（表示-非営利）で公開しています。詳細は LICENSE を参照してください。
