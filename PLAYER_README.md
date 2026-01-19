@@ -1,4 +1,4 @@
-# 星影の約束（プレイヤー向け簡易ガイド）
+# 星影の約束 - the-promise-of-starlight（プレイヤー向け簡易ガイド）
 
 開発版ではなく、配布ビルドで遊ぶ人向けの案内です。Godotのインストールは不要で、同梱の実行ファイルで起動できます。
 
@@ -6,12 +6,13 @@
 
 ## 動作環境
 - Windows 10/11（デスクトップ版ビルドを想定）
-- それ以外のOSは今後追加予定（Mac/Linuxなど）
+- Mac
+- Linuxは今後追加予定
 
 ---
 
 ## ダウンロード
-1. GitHub Releases ページから最新版の zip をダウンロード
+1. [GitHub Releases](https://github.com/melon2560/The-Promise-of-Starlight-Release/releases) ページから最新版の zip をダウンロード
 2. 好きな場所に展開
 
 ---
@@ -32,9 +33,9 @@
 
 ## セーブデータ
 Godotの `user://` に保存されます。OS別の例:
-- Windows: `%AppData%/Godot/app_userdata/星影の約束/`
-- macOS: `~/Library/Application Support/Godot/app_userdata/星影の約束/`
-- Linux: `~/.local/share/godot/app_userdata/星影の約束/`
+- Windows: `%AppData%/Roaming/Godot/app_userdata/星影の約束---the-promise-of-starlight/saves`
+- macOS: `~/Library/Application Support/Godot/app_userdata/星影の約束---the-promise-of-starlight/saves`
+- Linux: `~/.local/share/godot/app_userdata/星影の約束---the-promise-of-starlight/saves`
 
 ---
 
